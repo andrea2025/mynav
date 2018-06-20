@@ -11,24 +11,33 @@
 
 .sec2, .sec1, .sec3 {
 					float: left;
-					width: 50px;
-					margin: 70px;
-					padding: 40px;
+					width: 60px;
+					margin: 30px;
+					padding: 70px;
 					height: 100px;
+					font-size: 20px;
 }
 
 .tue {
 	background: yellow;
 	padding: 70px 50px 20px;
+	
 
 }
 .mon {
 	background: aliceblue;
-	padding: 50px;
+	text-align: center;
 }
 .day {
 	background: #ffeb3b87;
 }
 .e, .g, .h {
-			border: 1px solid #795548;
+		 	background: white;
+}
+#b {
+	clear: left;
+	text-align: center;
+	padding: 70px 50px 30px;
+	margin-top: 25px;
+	font-size: 200%;
 }
